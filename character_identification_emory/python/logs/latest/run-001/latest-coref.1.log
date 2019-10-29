@@ -1,0 +1,1348 @@
+2019-09-03 08:49:48,549 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 08:49:49,619 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 08:49:50,858 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 08:49:51,866 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 08:49:51,867 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.31s
+
+2019-09-03 08:49:52,477 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.61s
+2019-09-03 08:51:23,664 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 08:51:24,723 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 08:51:25,952 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 08:51:26,964 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 08:51:26,964 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.28s
+
+2019-09-03 08:51:27,415 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.45s
+2019-09-03 08:51:39,139 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.72s
+2019-09-03 08:51:39,177 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 08:54:57,198 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 198.00s
+
+2019-09-03 08:55:01,918 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 4.72s
+2019-09-03 09:02:22,853 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 09:02:23,897 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 09:02:25,186 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 09:02:26,336 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 09:02:26,336 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.46s
+
+2019-09-03 09:02:26,838 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.50s
+2019-09-03 09:02:38,758 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.92s
+2019-09-03 09:02:38,799 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 09:05:56,201 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 197.39s
+
+2019-09-03 09:06:01,017 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 4.82s
+2019-09-03 09:20:06,804 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 621.49s, clstr: 206.06s, Trn - 0.7276/0.5455/0.6235, Dev - 0.7536/0.5539/0.6385
+2019-09-03 09:20:06,808 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4803 ac 0.8117, Dev - ls: 0.4120 ac: 0.8348
+2019-09-03 09:20:06,930 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.7276/0.5455/0.6235, Dev: 0.7536/0.5539/0.6385 @ Epoch 1 - 828.39s
+2019-09-03 09:20:07,797 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-03 09:20:42,437 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.7354/0.5355/0.6197
+2019-09-03 09:25:39,514 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3718/0.6289/0.4674
+2019-09-03 09:25:39,565 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.6470/0.6378/0.6418
+2019-09-03 10:18:00,103 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 10:18:01,172 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 10:18:02,420 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 10:18:03,451 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 10:18:03,451 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.35s
+
+2019-09-03 10:18:04,133 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.68s
+2019-09-03 10:18:15,974 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.84s
+2019-09-03 10:18:16,020 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 10:21:23,235 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 187.19s
+
+2019-09-03 10:21:28,484 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 5.25s
+2019-09-03 10:37:06,766 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 657.19s, clstr: 261.37s, Trn - 0.8935/0.4630/0.6100, Dev - 0.8966/0.4711/0.6176
+2019-09-03 10:37:06,804 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4840 ac 0.8121, Dev - ls: 0.4352 ac: 0.8261
+2019-09-03 10:37:07,266 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8935/0.4630/0.6100, Dev: 0.8966/0.4711/0.6176 @ Epoch 1 - 921.34s
+2019-09-03 10:37:08,802 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-03 10:37:56,319 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.8965/0.4515/0.6005
+2019-09-03 10:44:33,752 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3211/0.6102/0.4207
+2019-09-03 10:44:33,818 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.8131/0.6536/0.6789
+2019-09-03 11:39:59,818 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 11:40:12,750 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 11:40:26,491 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 11:40:38,056 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 11:40:38,057 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 47.38s
+
+2019-09-03 11:40:38,914 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.86s
+2019-09-03 11:45:09,181 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 11:45:10,258 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 11:45:11,539 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 11:45:12,599 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 11:45:12,599 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.44s
+
+2019-09-03 11:45:13,481 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.88s
+2019-09-03 11:45:25,634 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 12.15s
+2019-09-03 11:45:25,673 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 11:48:33,376 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 187.68s
+
+2019-09-03 11:48:38,657 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 5.28s
+2019-09-03 12:02:50,094 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 632.81s, clstr: 200.96s, Trn - 0.8896/0.4278/0.5777, Dev - 0.9015/0.4403/0.5917
+2019-09-03 12:02:50,099 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4978 ac 0.8063, Dev - ls: 0.4533 ac: 0.8169
+2019-09-03 12:02:50,200 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8896/0.4278/0.5777, Dev: 0.9015/0.4403/0.5917 @ Epoch 1 - 834.55s
+2019-09-03 12:02:50,777 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-03 12:03:22,524 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.9001/0.4117/0.5650
+2019-09-03 12:08:55,991 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3207/0.6191/0.4225
+2019-09-03 12:08:56,027 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.8189/0.6293/0.6487
+2019-09-03 13:13:53,925 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 13:13:54,993 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 13:13:56,253 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 13:13:57,268 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 13:13:57,268 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.35s
+
+2019-09-03 13:13:57,992 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.72s
+2019-09-03 13:14:09,687 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.69s
+2019-09-03 13:14:09,731 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 13:17:15,362 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 185.61s
+
+2019-09-03 13:17:20,572 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 5.21s
+2019-09-03 13:30:43,515 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 591.02s, clstr: 194.19s, Trn - 0.8047/0.5238/0.6346, Dev - 0.8166/0.5339/0.6456
+2019-09-03 13:30:43,519 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4817 ac 0.8138, Dev - ls: 0.4368 ac: 0.8291
+2019-09-03 13:30:43,620 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8047/0.5238/0.6346, Dev: 0.8166/0.5339/0.6456 @ Epoch 1 - 786.02s
+2019-09-03 13:30:44,081 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-03 13:31:14,982 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.7935/0.5242/0.6313
+2019-09-03 13:37:39,125 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3329/0.5485/0.4143
+2019-09-03 13:37:39,167 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.7199/0.6705/0.6863
+2019-09-03 15:21:07,233 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 15:21:07,992 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 15:21:08,960 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 15:21:10,115 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 15:21:10,118 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.73s
+
+2019-09-03 15:21:11,040 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.92s
+2019-09-03 15:21:22,796 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.76s
+2019-09-03 15:21:22,839 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 15:26:12,052 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 15:26:12,798 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 15:26:13,782 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 15:26:14,916 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 15:26:14,917 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.70s
+
+2019-09-03 15:26:15,570 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.65s
+2019-09-03 15:26:27,271 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.70s
+2019-09-03 15:26:27,313 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 15:27:06,850 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-03 15:27:07,592 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-03 15:27:08,537 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-03 15:27:09,669 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-03 15:27:09,674 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.64s
+
+2019-09-03 15:27:10,193 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 0.51s
+2019-09-03 15:27:22,064 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.87s
+2019-09-03 15:27:22,108 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-03 15:30:38,364 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 196.24s
+
+2019-09-03 15:30:44,581 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 6.21s
+2019-09-03 15:44:52,812 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 627.90s, clstr: 202.18s, Trn - 0.8536/0.4386/0.5794, Dev - 0.8537/0.4462/0.5861
+2019-09-03 15:44:52,816 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4817 ac 0.8095, Dev - ls: 0.4360 ac: 0.8194
+2019-09-03 15:44:54,215 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8536/0.4386/0.5794, Dev: 0.8537/0.4462/0.5861 @ Epoch 1 - 830.99s
+2019-09-03 15:44:55,017 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-03 15:45:26,591 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.8482/0.4306/0.5712
+2019-09-03 15:50:39,340 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3323/0.6383/0.4371
+2019-09-03 15:50:39,384 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.7584/0.6307/0.6491
+2019-09-10 21:30:50,321 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-10 21:30:51,320 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-10 21:30:52,511 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-10 21:30:53,516 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-10 21:30:53,517 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.10s
+
+2019-09-10 21:31:47,520 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-10 21:31:48,507 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-10 21:31:49,684 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-10 21:31:50,666 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-10 21:31:50,666 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.04s
+
+2019-09-10 21:31:54,041 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 3.37s
+2019-09-10 21:32:06,127 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 12.09s
+2019-09-10 21:32:06,165 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-10 21:35:44,945 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 218.76s
+
+2019-09-10 21:35:52,357 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 7.41s
+2019-09-11 00:13:20,089 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 9048.30s, clstr: 354.90s, Trn - 0.9043/0.4371/0.5893, Dev - 0.9057/0.4467/0.5983
+2019-09-11 00:13:20,094 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4539 ac 0.8163, Dev - ls: 0.4560 ac: 0.8260
+2019-09-11 00:13:20,347 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.9043/0.4371/0.5893, Dev: 0.9057/0.4467/0.5983 @ Epoch 1 - 9404.68s
+2019-09-11 00:13:21,811 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-11 00:14:09,097 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.9064/0.4304/0.5836
+2019-09-11 00:17:20,738 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3691/0.6922/0.4815
+2019-09-11 00:17:20,773 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.8223/0.6297/0.6492
+2019-09-11 10:21:43,936 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-11 10:21:44,717 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-11 10:21:45,997 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-11 10:21:46,920 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-11 10:21:46,921 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.87s
+
+2019-09-11 10:21:48,206 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.28s
+2019-09-11 10:22:00,196 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 11.99s
+2019-09-11 10:22:00,236 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.04s
+2019-09-11 10:25:11,644 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 191.39s
+
+2019-09-11 10:25:17,194 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 5.55s
+2019-09-11 13:13:34,261 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 9707.04s, clstr: 347.24s, Trn - 0.8248/0.5356/0.6495, Dev - 0.8362/0.5247/0.6448
+2019-09-11 13:13:34,267 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4583 ac 0.8152, Dev - ls: 0.4187 ac: 0.8259
+2019-09-11 13:13:34,509 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8248/0.5356/0.6495, Dev: 0.8362/0.5247/0.6448 @ Epoch 1 - 10055.60s
+2019-09-11 13:13:35,878 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-11 13:14:22,763 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.8309/0.5249/0.6434
+2019-09-11 13:18:27,650 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3670/0.6728/0.4749
+2019-09-11 13:18:27,695 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.7289/0.6706/0.6881
+2019-09-11 14:17:23,555 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-11 14:17:24,328 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-11 14:17:25,574 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-11 14:17:26,577 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-11 14:17:26,577 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.88s
+
+2019-09-11 14:17:27,805 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.23s
+2019-09-11 14:17:27,805 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-11 14:19:02,103 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-11 14:19:02,877 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-11 14:19:04,154 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-11 14:19:05,057 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-11 14:19:05,057 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.82s
+
+2019-09-11 14:19:06,159 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.10s
+2019-09-11 14:19:06,159 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-11 14:19:06,160 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-11 14:34:21,818 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-11 14:34:22,595 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-11 14:34:23,849 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-11 14:34:24,762 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-11 14:34:24,763 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.80s
+
+2019-09-11 14:34:25,909 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.15s
+2019-09-11 14:34:25,910 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-11 14:34:25,910 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-11 14:37:06,816 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-11 14:37:07,586 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-11 14:37:08,834 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-11 14:37:09,744 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-11 14:37:09,744 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.79s
+
+2019-09-11 14:37:10,831 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.09s
+2019-09-11 14:37:10,831 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-11 14:37:10,831 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-11 14:40:42,979 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 212.14s
+
+2019-09-11 14:40:42,998 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 0.02s
+2019-09-11 15:04:56,588 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-11 15:04:57,367 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-11 15:04:58,660 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-11 15:04:59,557 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-11 15:04:59,558 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.06s
+
+2019-09-11 15:05:00,679 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.12s
+2019-09-11 15:05:00,679 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-11 15:05:00,679 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-11 15:08:08,467 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 187.78s
+
+2019-09-11 15:08:08,479 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 0.01s
+2019-09-11 17:44:14,415 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 8985.60s, clstr: 339.47s, Trn - 0.8875/0.4940/0.6347, Dev - 0.8892/0.4854/0.6280
+2019-09-11 17:44:14,449 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4539 ac 0.8172, Dev - ls: 0.4748 ac: 0.8277
+2019-09-11 17:44:14,679 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8875/0.4940/0.6347, Dev: 0.8892/0.4854/0.6280 @ Epoch 1 - 9326.21s
+2019-09-11 17:44:16,134 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-11 17:45:05,319 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.8860/0.4766/0.6198
+2019-09-11 17:48:16,179 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.3766/0.6999/0.4897
+2019-09-11 17:48:16,224 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.7989/0.6656/0.6917
+2019-09-14 12:47:49,792 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-14 12:47:51,885 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-14 12:47:54,270 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-14 12:47:57,113 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-14 12:47:57,114 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 9.66s
+
+2019-09-14 12:47:59,780 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 2.67s
+2019-09-14 12:47:59,781 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-14 12:47:59,781 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-14 12:59:38,235 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 698.42s
+
+2019-09-14 12:59:39,342 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 1.03s
+2019-09-14 16:59:25,962 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 13684.31s, clstr: 569.85s, Trn - 0.8259/0.5525/0.6621, Dev - 0.8263/0.5592/0.6670
+2019-09-14 16:59:25,974 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.4496 ac 0.8196, Dev - ls: 0.3939 ac: 0.8371
+2019-09-14 16:59:26,905 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.8259/0.5525/0.6621, Dev: 0.8263/0.5592/0.6670 @ Epoch 1 - 14256.49s
+2019-09-14 16:59:29,045 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-14 17:00:40,142 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 0.8231/0.5389/0.6514
+2019-09-14 17:09:20,943 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.4212/0.6771/0.5194
+2019-09-14 17:09:21,220 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.7457/0.6789/0.6986
+2019-09-14 21:49:46,162 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-14 21:49:47,077 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-14 21:49:48,102 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-14 21:49:49,330 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-14 21:49:49,330 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.08s
+
+2019-09-14 21:49:50,606 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.28s
+2019-09-14 21:49:50,606 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-14 21:49:50,606 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-14 21:52:59,903 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.29s
+
+2019-09-14 21:52:59,932 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 0.02s
+2019-09-14 22:26:31,472 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-14 22:26:32,282 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-14 22:26:33,322 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-14 22:26:34,560 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-14 22:26:34,561 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.96s
+
+2019-09-14 22:26:35,673 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.11s
+2019-09-14 22:26:35,673 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-14 22:26:35,673 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-14 22:29:44,713 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.04s
+
+2019-09-14 22:29:44,727 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 0.01s
+2019-09-14 22:36:41,145 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-14 22:36:41,962 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-14 22:36:42,992 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-14 22:36:44,232 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-14 22:36:44,232 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.96s
+
+2019-09-14 22:36:45,352 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.12s
+2019-09-14 22:36:45,352 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-14 22:36:45,352 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-14 22:39:55,286 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.93s
+
+2019-09-14 22:39:55,298 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extractor saved to trained_models/ExperimentTypes.LATEST.f1-4.1.ft.p - 0.01s
+2019-09-15 01:23:28,489 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 9460.14s, clstr: 310.14s, Trn - 1.0000/0.1845/0.3115, Dev - 1.0000/0.1795/0.3044
+2019-09-15 01:23:28,499 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.5591 ac 0.7841, Dev - ls: 0.5082 ac: 0.7579
+2019-09-15 01:23:28,869 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 1.0000/0.1845/0.3115, Dev: 1.0000/0.1795/0.3044 @ Epoch 1 - 9771.25s
+2019-09-15 01:23:30,157 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-15 01:24:11,602 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-15 01:25:57,523 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.1511/0.6550/0.2455
+2019-09-15 01:25:57,555 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.3728/0.5000/0.4272
+2019-09-16 10:26:55,999 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 10:26:56,803 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 10:26:57,841 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 10:26:59,082 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 10:26:59,082 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.97s
+
+2019-09-16 10:27:00,423 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.34s
+2019-09-16 10:27:00,427 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 10:27:00,428 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 10:30:08,730 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 188.30s
+
+2019-09-16 10:40:12,485 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 10:40:13,290 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 10:40:14,320 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 10:40:15,552 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 10:40:15,553 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.93s
+
+2019-09-16 10:40:16,701 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.15s
+2019-09-16 10:40:16,702 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 10:40:16,702 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 10:43:49,047 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 212.34s
+
+2019-09-16 10:48:00,276 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 10:48:01,086 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 10:48:02,120 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 10:48:03,343 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 10:48:03,343 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.94s
+
+2019-09-16 10:48:04,463 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.12s
+2019-09-16 10:48:04,464 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 10:48:04,464 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 10:51:25,388 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 200.92s
+
+2019-09-16 11:11:12,535 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 11:11:13,896 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 11:11:15,562 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 11:11:17,065 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 11:11:17,066 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.09s
+
+2019-09-16 11:11:18,218 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.15s
+2019-09-16 11:11:18,218 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 11:11:18,219 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 11:16:31,704 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 313.48s
+
+2019-09-16 11:26:28,844 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 11:26:29,711 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 11:26:30,811 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 11:26:32,143 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 11:26:32,143 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.20s
+
+2019-09-16 11:26:33,516 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.37s
+2019-09-16 11:26:33,517 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 11:26:33,517 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 11:29:42,561 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.04s
+
+2019-09-16 11:36:25,198 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 11:36:26,006 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 11:36:27,037 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 11:36:28,264 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 11:36:28,264 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.94s
+
+2019-09-16 11:36:29,424 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.16s
+2019-09-16 11:36:29,424 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 11:36:29,424 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 11:39:38,585 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.16s
+
+2019-09-16 11:47:11,132 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 11:47:11,928 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 11:47:12,952 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 11:47:14,183 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 11:47:14,183 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.91s
+
+2019-09-16 11:47:15,312 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.13s
+2019-09-16 11:47:15,312 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 11:47:15,313 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 11:50:25,129 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.82s
+
+2019-09-16 11:56:47,024 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 11:56:47,825 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 11:56:48,868 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 11:56:50,104 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 11:56:50,104 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.95s
+
+2019-09-16 11:56:51,243 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.14s
+2019-09-16 11:56:51,243 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 11:56:51,244 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 12:41:58,546 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 2707.30s
+
+2019-09-16 12:57:45,240 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 12:57:46,074 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 12:57:47,139 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 12:57:48,408 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 12:57:48,408 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.07s
+
+2019-09-16 12:57:49,969 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.56s
+2019-09-16 12:57:49,972 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 12:57:49,972 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 13:01:10,264 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 200.29s
+
+2019-09-16 13:59:30,456 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 13:59:31,365 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 13:59:32,514 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 13:59:33,944 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 13:59:33,944 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.51s
+
+2019-09-16 13:59:35,372 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.43s
+2019-09-16 13:59:35,373 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 13:59:35,373 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 14:02:45,671 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 190.30s
+
+2019-09-16 14:13:54,978 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 14:13:55,779 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 14:13:56,801 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 14:13:58,019 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 14:13:58,019 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.91s
+
+2019-09-16 14:13:59,136 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.12s
+2019-09-16 14:13:59,136 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 14:13:59,136 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 14:17:10,028 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 190.89s
+
+2019-09-16 15:29:13,214 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 15:29:14,568 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 15:29:16,259 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 15:29:17,842 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 15:29:17,842 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.16s
+
+2019-09-16 15:29:19,044 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.20s
+2019-09-16 15:29:19,045 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 15:29:19,045 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 15:34:26,809 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 307.76s
+
+2019-09-16 15:48:31,869 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 15:48:32,691 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 15:48:33,741 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 15:48:34,984 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 15:48:34,985 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.00s
+
+2019-09-16 15:48:36,080 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.09s
+2019-09-16 15:48:36,080 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 15:48:36,080 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 15:51:50,673 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 194.59s
+
+2019-09-16 15:51:50,892 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-16 18:03:53,518 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 18:03:54,347 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 18:03:55,395 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 18:03:56,632 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 18:03:56,632 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.00s
+
+2019-09-16 18:03:58,027 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.39s
+2019-09-16 18:03:58,028 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 18:03:58,028 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 18:07:07,073 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.04s
+
+2019-09-16 18:07:07,227 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-16 18:09:36,558 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 18:09:37,370 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 18:09:38,405 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 18:09:39,645 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 18:09:39,649 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.97s
+
+2019-09-16 18:09:40,978 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.33s
+2019-09-16 18:09:40,982 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 18:09:40,983 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 18:12:52,066 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 191.08s
+
+2019-09-16 18:12:53,358 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-16 18:13:26,826 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-16 20:07:17,153 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 20:07:18,613 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 20:07:20,221 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 20:07:21,735 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 20:07:21,736 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.12s
+
+2019-09-16 20:07:23,479 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.74s
+2019-09-16 20:07:23,481 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 20:07:23,481 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 20:07:55,693 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 20:07:57,072 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 20:07:58,662 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 20:08:00,092 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 20:08:00,092 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.99s
+
+2019-09-16 20:08:01,145 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.05s
+2019-09-16 20:08:01,145 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 20:08:01,146 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 20:34:54,580 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 20:34:55,475 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 20:34:56,832 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 20:34:58,095 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 20:34:58,095 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.40s
+
+2019-09-16 20:35:00,188 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 2.09s
+2019-09-16 20:35:00,190 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 20:35:00,191 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 20:35:33,708 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 20:35:34,520 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 20:35:35,575 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 20:35:36,948 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 20:35:36,948 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.18s
+
+2019-09-16 20:35:38,637 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.69s
+2019-09-16 20:35:38,637 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 20:35:38,637 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 20:38:47,029 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 188.39s
+
+2019-09-16 23:20:55,639 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 9381.94s, clstr: 305.74s, Trn - 1.0000/0.1845/0.3115, Dev - 1.0000/0.1795/0.3044
+2019-09-16 23:20:55,644 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.5564 ac 0.7833, Dev - ls: 0.5592 ac: 0.7579
+2019-09-16 23:20:55,903 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 1.0000/0.1845/0.3115, Dev: 1.0000/0.1795/0.3044 @ Epoch 1 - 9688.68s
+2019-09-16 23:20:57,450 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-16 23:21:38,689 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-16 23:37:19,148 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 23:37:20,066 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 23:37:21,189 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 23:37:22,522 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 23:37:22,523 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.44s
+
+2019-09-16 23:37:23,847 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.32s
+2019-09-16 23:37:23,848 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 23:37:23,848 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 23:40:42,216 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 198.37s
+
+2019-09-16 23:40:43,347 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-16 23:41:22,012 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-16 23:50:31,412 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-16 23:50:32,241 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-16 23:50:33,320 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-16 23:50:34,583 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-16 23:50:34,583 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.07s
+
+2019-09-16 23:50:35,756 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.17s
+2019-09-16 23:50:35,756 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-16 23:50:35,756 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-16 23:53:52,354 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 196.60s
+
+2019-09-16 23:53:53,463 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-16 23:54:28,245 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 08:45:40,587 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 08:45:42,060 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 08:45:43,788 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 08:45:45,443 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 08:45:45,443 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.64s
+
+2019-09-17 08:45:46,870 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.43s
+2019-09-17 08:45:46,871 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 08:45:46,871 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 08:51:22,343 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 323.65s
+
+2019-09-17 08:51:24,230 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 08:52:01,875 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 09:36:02,607 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 09:36:03,412 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 09:36:04,431 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 09:36:05,650 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 09:36:05,650 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.91s
+
+2019-09-17 09:36:06,952 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.30s
+2019-09-17 09:36:06,953 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 09:36:06,953 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 09:39:26,324 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 199.37s
+
+2019-09-17 09:39:27,398 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 09:40:07,666 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 09:45:31,816 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 09:45:32,613 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 09:45:33,635 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 09:45:34,853 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 09:45:34,853 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.91s
+
+2019-09-17 09:45:35,978 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.13s
+2019-09-17 09:45:35,979 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 09:45:35,979 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 09:48:47,760 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 191.78s
+
+2019-09-17 09:48:48,775 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 09:49:21,536 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 10:25:13,294 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 10:25:14,103 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 10:25:15,144 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 10:25:16,370 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 10:25:16,370 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.97s
+
+2019-09-17 10:25:17,650 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.28s
+2019-09-17 10:25:17,651 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 10:25:17,651 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 10:28:26,474 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 188.82s
+
+2019-09-17 10:28:27,734 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 10:29:00,397 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 10:39:45,328 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 10:39:46,139 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 10:39:47,181 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 10:39:48,407 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 10:39:48,407 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.95s
+
+2019-09-17 10:39:49,607 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.20s
+2019-09-17 10:39:49,608 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 10:39:49,608 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 10:43:01,646 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 192.04s
+
+2019-09-17 10:43:02,731 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 10:43:35,942 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 10:50:59,168 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 10:51:00,000 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 10:51:01,022 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 10:51:02,247 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 10:51:02,248 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.96s
+
+2019-09-17 10:51:03,376 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.13s
+2019-09-17 10:51:03,377 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 10:51:03,377 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 10:54:18,390 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 195.01s
+
+2019-09-17 10:54:19,503 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 10:54:55,226 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 11:21:24,780 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 11:21:25,641 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 11:21:26,717 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 11:21:28,049 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 11:21:28,050 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.16s
+
+2019-09-17 11:21:29,301 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.25s
+2019-09-17 11:21:29,301 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 11:21:29,301 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 11:24:45,805 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 196.50s
+
+2019-09-17 11:24:47,001 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 11:25:22,962 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 11:35:06,075 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 11:35:06,910 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 11:35:07,946 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 11:35:09,186 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 11:35:09,186 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.99s
+
+2019-09-17 11:35:10,354 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.17s
+2019-09-17 11:35:10,355 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 11:35:10,355 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 11:38:29,101 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 198.75s
+
+2019-09-17 11:38:30,391 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 11:39:05,041 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 11:40:28,464 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 11:40:29,558 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 11:40:30,849 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 11:40:32,255 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 11:40:32,255 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.20s
+
+2019-09-17 11:40:33,638 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.38s
+2019-09-17 11:40:33,638 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 11:40:33,638 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 11:41:03,364 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 11:41:04,169 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 11:41:05,193 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 11:41:06,415 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 11:41:06,415 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.90s
+
+2019-09-17 11:41:07,466 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.05s
+2019-09-17 11:41:07,466 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 11:41:07,466 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 11:47:47,983 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 400.52s
+
+2019-09-17 11:47:49,063 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 11:48:32,979 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 11:52:59,889 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 11:53:00,742 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 11:53:01,782 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 11:53:03,020 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 11:53:03,020 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.01s
+
+2019-09-17 11:53:04,150 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.13s
+2019-09-17 11:53:04,151 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 11:53:04,151 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 11:56:14,432 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 190.28s
+
+2019-09-17 11:56:15,512 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 11:56:48,463 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 14:30:19,162 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 14:30:20,013 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 14:30:21,134 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 14:30:22,372 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 14:30:22,372 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.23s
+
+2019-09-17 14:30:23,653 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.28s
+2019-09-17 14:30:23,655 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 14:30:23,656 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 14:33:35,637 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 191.98s
+
+2019-09-17 14:33:36,735 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 14:34:09,860 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 14:42:12,231 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 14:42:13,033 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 14:42:14,059 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 14:42:15,281 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 14:42:15,281 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.92s
+
+2019-09-17 14:42:16,419 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.14s
+2019-09-17 14:42:16,420 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 14:42:16,420 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 14:45:39,029 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 202.61s
+
+2019-09-17 14:45:40,317 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 14:46:19,311 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 15:00:56,396 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 15:00:57,215 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 15:00:58,265 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 15:00:59,500 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 15:00:59,500 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.98s
+
+2019-09-17 15:01:00,883 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.38s
+2019-09-17 15:01:00,884 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 15:01:00,884 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 15:04:12,237 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 191.35s
+
+2019-09-17 15:04:13,322 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 15:04:46,311 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 15:20:41,531 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 15:20:43,030 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 15:20:44,891 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 15:20:46,482 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 15:20:46,482 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.63s
+
+2019-09-17 15:20:47,942 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.46s
+2019-09-17 15:20:47,943 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 15:20:47,943 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 15:26:06,596 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 318.65s
+
+2019-09-17 15:26:08,599 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 15:26:47,138 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-17 15:45:08,002 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-17 15:45:08,810 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-17 15:45:09,846 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-17 15:45:11,071 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-17 15:45:11,074 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.94s
+
+2019-09-17 15:45:12,220 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.15s
+2019-09-17 15:45:12,220 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-17 15:45:12,221 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-17 15:48:22,097 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 189.88s
+
+2019-09-17 15:48:23,179 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-17 15:48:56,331 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-18 14:59:36,333 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-18 14:59:37,138 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-18 14:59:38,170 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-18 14:59:39,441 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-18 14:59:39,441 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.98s
+
+2019-09-18 14:59:40,830 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.39s
+2019-09-18 14:59:40,830 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-18 14:59:40,831 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-18 15:02:52,065 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 191.23s
+
+2019-09-18 15:02:53,230 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-18 15:03:26,391 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-18 15:04:52,535 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.1511/0.6550/0.2455
+2019-09-18 15:04:52,565 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.3728/0.5000/0.4272
+2019-09-19 17:30:07,710 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-19 17:30:08,540 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-19 17:30:09,600 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-19 17:30:10,847 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-19 17:30:10,847 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 4.02s
+
+2019-09-19 17:30:12,278 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.43s
+2019-09-19 17:30:12,278 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-19 17:30:12,279 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-19 17:33:39,538 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 207.25s
+
+2019-09-19 17:33:41,114 - LatestSystem.SubsystemTypes.COREF - INFO - ranking_model
+None
+2019-09-19 17:33:41,119 - LatestSystem.SubsystemTypes.COREF - INFO - mpair_model
+None
+2019-09-19 17:33:41,122 - LatestSystem.SubsystemTypes.COREF - INFO - mrepr_model
+None
+2019-09-19 17:33:41,122 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-19 17:34:20,794 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.1795/0.3044
+2019-09-19 17:35:50,578 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.1511/0.6550/0.2455
+2019-09-19 17:35:50,607 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.3728/0.5000/0.4272
+2019-09-20 08:37:49,940 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-20 08:37:51,293 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-20 08:37:52,922 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-20 08:37:54,390 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-20 08:37:54,391 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.96s
+
+2019-09-20 08:37:55,934 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.54s
+2019-09-20 08:37:55,940 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-20 08:37:55,940 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-20 08:39:50,975 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-20 08:39:52,372 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-20 08:39:53,977 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-20 08:39:55,441 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-20 08:39:55,441 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.30s
+
+2019-09-20 08:39:56,519 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.08s
+2019-09-20 08:39:56,521 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-20 08:39:56,521 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-20 08:45:29,285 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 332.76s
+
+2019-09-20 08:45:31,529 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-20 15:05:09,866 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-20 15:05:11,233 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-20 15:05:12,863 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-20 15:05:14,346 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-20 15:05:14,346 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.14s
+
+2019-09-20 15:05:15,622 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.27s
+2019-09-20 15:05:15,624 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-20 15:05:15,624 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-20 15:10:28,348 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 312.72s
+
+2019-09-20 15:10:30,514 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-09-23 09:35:01,176 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 09:35:02,614 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 09:35:04,502 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 09:35:06,142 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 09:35:06,143 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.48s
+
+2019-09-23 09:44:18,342 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.41s
+2019-09-23 09:44:18,344 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 09:44:18,344 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 10:25:24,005 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 10:25:25,440 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 10:25:27,323 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 10:25:28,921 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 10:25:28,921 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 6.84s
+
+2019-09-23 10:25:30,464 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.54s
+2019-09-23 10:25:30,465 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 10:25:30,465 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 10:50:35,177 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 10:50:36,334 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 10:50:37,737 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 10:50:39,010 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 10:50:39,010 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 38.09s
+
+2019-09-23 10:50:40,271 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.26s
+2019-09-23 10:50:40,272 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 10:50:40,272 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 11:02:38,478 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 11:02:39,671 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 11:02:41,108 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 11:02:42,389 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 11:02:42,389 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.22s
+
+2019-09-23 11:02:43,617 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.23s
+2019-09-23 11:02:43,618 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 11:02:43,618 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 11:04:12,541 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 11:04:13,703 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 11:04:15,180 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 11:04:16,508 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 11:04:16,509 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.25s
+
+2019-09-23 11:04:17,696 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.19s
+2019-09-23 11:04:17,697 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 11:04:17,698 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 11:06:21,738 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 11:06:22,922 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 11:06:24,357 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 11:06:25,635 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 11:06:25,635 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.17s
+
+2019-09-23 11:06:26,705 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.07s
+2019-09-23 11:06:26,705 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 11:06:26,706 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 11:07:27,466 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 11:07:28,654 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 11:07:30,078 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 11:07:31,351 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 11:07:31,351 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.15s
+
+2019-09-23 11:08:33,600 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 11:08:34,765 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 11:08:36,215 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 11:08:37,519 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 11:08:37,519 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.22s
+
+2019-09-23 11:09:57,162 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.12s
+2019-09-23 11:09:57,163 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 11:09:57,163 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-23 17:25:18,994 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-23 17:25:20,178 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-23 17:25:21,619 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-23 17:25:22,925 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-23 17:25:22,925 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.24s
+
+2019-09-23 17:25:24,375 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.45s
+2019-09-23 17:25:24,379 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-23 17:25:24,379 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-24 14:45:36,076 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-24 14:45:37,354 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-24 14:45:38,806 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-24 14:45:40,205 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-24 14:45:40,206 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 20.70s
+
+2019-09-24 14:45:41,574 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.36s
+2019-09-24 14:45:41,577 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-24 14:45:41,577 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-24 14:50:15,364 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-24 14:50:16,541 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-24 14:50:17,973 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-24 14:50:19,241 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-24 14:50:19,241 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.19s
+
+2019-09-24 14:50:20,324 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.08s
+2019-09-24 14:50:20,326 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-24 14:50:20,326 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-24 14:54:58,573 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-24 14:55:00,115 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-24 14:55:01,553 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-24 14:55:02,888 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-24 14:55:02,889 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.64s
+
+2019-09-24 14:55:04,176 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.29s
+2019-09-24 14:55:04,177 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-24 14:55:04,177 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-24 14:55:16,492 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-24 14:55:17,679 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-24 14:55:19,090 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-24 14:55:20,363 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-24 14:55:20,363 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.14s
+
+2019-09-24 14:55:21,426 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.06s
+2019-09-24 14:55:21,427 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-24 14:55:21,427 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-24 15:17:41,499 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-24 15:17:42,664 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-24 15:17:44,056 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-24 15:17:45,322 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-24 15:17:45,322 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.10s
+
+2019-09-24 15:17:46,378 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.06s
+2019-09-24 15:17:46,379 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-24 15:17:46,379 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-24 15:23:00,714 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 314.33s
+
+2019-09-25 15:13:07,269 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-25 15:13:08,468 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-25 15:13:09,905 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-25 15:13:11,183 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-25 15:13:11,184 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.25s
+
+2019-09-25 15:13:12,575 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.39s
+2019-09-25 15:13:12,576 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-25 15:13:12,576 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-25 15:18:21,066 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 308.49s
+
+2019-09-29 15:45:02,460 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 15:45:03,636 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 15:45:05,062 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 15:45:06,354 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 15:45:06,354 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.26s
+
+2019-09-29 15:45:07,956 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.60s
+2019-09-29 15:45:07,957 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 15:45:07,958 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 15:50:26,347 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 318.39s
+
+2019-09-29 15:56:49,237 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 15:56:50,411 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 15:56:51,846 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 15:56:53,140 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 15:56:53,140 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.20s
+
+2019-09-29 15:56:54,758 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.62s
+2019-09-29 15:56:54,759 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 15:56:54,759 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:02:36,641 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 341.88s
+
+2019-09-29 16:08:10,982 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 16:08:12,228 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 16:08:13,728 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 16:08:15,056 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 16:08:15,056 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.59s
+
+2019-09-29 16:08:16,623 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.57s
+2019-09-29 16:08:16,625 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 16:08:16,625 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:13:54,725 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 338.10s
+
+2019-09-29 16:16:35,338 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 16:16:36,569 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 16:16:38,039 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 16:16:39,378 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 16:16:39,378 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.39s
+
+2019-09-29 16:16:40,951 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.57s
+2019-09-29 16:16:40,952 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 16:16:40,952 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:22:12,717 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 331.76s
+
+2019-09-29 16:24:00,387 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 16:24:01,569 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 16:24:03,011 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 16:24:04,318 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 16:24:04,318 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.21s
+
+2019-09-29 16:24:05,920 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.60s
+2019-09-29 16:24:05,922 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 16:24:05,923 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:29:36,514 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 330.59s
+
+2019-09-29 16:30:43,711 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 16:30:44,891 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 16:30:46,325 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 16:30:47,617 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 16:30:47,617 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.23s
+
+2019-09-29 16:30:49,248 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.63s
+2019-09-29 16:30:49,249 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 16:30:49,249 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:36:22,927 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 333.68s
+
+2019-09-29 16:37:18,090 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 16:37:19,306 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 16:37:20,795 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 16:37:22,176 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 16:37:22,177 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.43s
+
+2019-09-29 16:37:23,899 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.72s
+2019-09-29 16:37:23,903 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 16:37:23,903 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:43:01,364 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 337.46s
+
+2019-09-29 16:49:10,885 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 16:49:12,076 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 16:49:13,524 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 16:49:14,824 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 16:49:14,824 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.22s
+
+2019-09-29 16:49:16,427 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.60s
+2019-09-29 16:49:16,430 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 16:49:16,430 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 16:59:55,625 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 639.19s
+
+2019-09-29 17:02:04,391 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:02:05,651 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:02:07,124 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:02:08,446 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:02:08,447 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.47s
+
+2019-09-29 17:02:09,972 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.52s
+2019-09-29 17:02:09,973 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:02:09,973 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 17:07:47,991 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 338.02s
+
+2019-09-29 17:16:44,524 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:16:45,729 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:16:47,166 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:16:48,468 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:16:48,469 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.23s
+
+2019-09-29 17:16:49,763 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.29s
+2019-09-29 17:16:49,764 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:16:49,764 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 17:21:47,525 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:21:48,785 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:21:50,279 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:21:51,789 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:21:51,790 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.65s
+
+2019-09-29 17:21:53,155 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.36s
+2019-09-29 17:21:53,155 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:21:53,156 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 17:27:28,553 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 335.40s
+
+2019-09-29 17:28:23,226 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:28:24,009 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:28:25,007 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:28:26,206 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:28:26,207 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.81s
+
+2019-09-29 17:28:27,694 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.49s
+2019-09-29 17:28:27,696 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:28:27,696 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 17:31:53,199 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 205.50s
+
+2019-09-29 17:38:22,449 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:38:23,227 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:38:24,240 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:38:25,449 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:38:25,449 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.92s
+
+2019-09-29 17:38:27,016 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.57s
+2019-09-29 17:38:27,016 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:38:27,016 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 17:41:48,341 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 201.32s
+
+2019-09-29 17:45:12,410 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:45:13,176 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:45:14,168 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:45:15,351 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:45:15,351 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 3.78s
+
+2019-09-29 17:45:16,862 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.51s
+2019-09-29 17:45:16,863 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:45:16,863 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 17:48:46,130 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 209.26s
+
+2019-09-29 17:55:38,638 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 17:55:39,809 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 17:55:41,225 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 17:55:42,497 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 17:55:42,497 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.14s
+
+2019-09-29 17:55:43,891 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.39s
+2019-09-29 17:55:43,891 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 17:55:43,892 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 18:01:23,681 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 339.79s
+
+2019-09-29 18:01:25,942 - LatestSystem.SubsystemTypes.COREF - INFO - None
+2019-09-29 18:02:18,010 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 18:02:19,371 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 18:02:20,823 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 18:02:22,127 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 18:02:22,128 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.77s
+
+2019-09-29 18:02:23,309 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.18s
+2019-09-29 18:02:23,310 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 18:02:23,310 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 20:14:25,353 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 7922.04s
+
+2019-09-29 20:14:28,762 - LatestSystem.SubsystemTypes.COREF - INFO - None
+2019-09-29 20:22:08,194 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-09-29 20:22:09,361 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-09-29 20:22:10,776 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-09-29 20:22:12,046 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-09-29 20:22:12,046 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.14s
+
+2019-09-29 20:22:13,350 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.30s
+2019-09-29 20:22:13,350 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-09-29 20:22:13,351 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-09-29 20:27:23,428 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 310.08s
+
+2019-09-29 20:54:12,368 - LatestSystem.SubsystemTypes.COREF - INFO - None
+2019-10-10 11:35:20,700 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-10-10 11:35:22,153 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-10-10 11:35:23,771 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-10-10 11:35:25,204 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-10-10 11:35:25,204 - LatestSystem.SubsystemTypes.COREF - INFO - 4 transcript(s) loaded with 331 speakers and 47367 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/188(7050)) - 5.68s
+
+2019-10-10 11:35:26,658 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.45s
+2019-10-10 11:35:26,659 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 11:35:26,661 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 15:11:56,662 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-10-10 15:11:58,107 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-10-10 15:11:59,676 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-10-10 15:12:01,107 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-10-10 15:13:08,166 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-10-10 15:13:08,850 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-10-10 15:13:09,702 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-10-10 15:13:10,761 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-10-10 15:13:46,535 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-10-10 15:13:47,209 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-10-10 15:13:48,115 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-10-10 15:13:49,175 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-10-10 15:14:41,398 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json w/ 11460 mentions
+2019-10-10 15:14:42,107 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json w/ 11677 mentions
+2019-10-10 15:14:43,002 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json w/ 12365 mentions
+2019-10-10 15:14:44,053 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json w/ 11865 mentions
+2019-10-10 15:15:39,712 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:15:40,365 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:15:41,243 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:15:42,317 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:19:13,879 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:19:14,601 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:19:15,475 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:19:16,829 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:20:59,928 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:21:00,617 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:21:01,492 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:21:02,522 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:22:47,537 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:22:49,091 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:22:50,982 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:22:52,447 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:29:15,838 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:29:17,869 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:29:19,684 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:29:21,213 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:49:19,283 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:49:20,429 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:49:21,492 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:49:22,540 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:49:24,673 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 15:49:24,673 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 6.11s
+
+2019-10-10 15:50:17,489 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 15:50:18,213 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 15:50:19,116 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 15:50:20,166 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 15:50:22,230 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 15:50:22,230 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 5.46s
+
+2019-10-10 15:50:23,637 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.41s
+2019-10-10 15:50:23,638 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 15:50:23,640 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 15:55:43,369 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 319.73s
+
+2019-10-10 16:20:19,255 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 16:20:20,575 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 16:20:22,037 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 16:20:23,252 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 16:20:26,161 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 16:20:26,162 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 51.75s
+
+2019-10-10 16:20:27,533 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.37s
+2019-10-10 16:20:27,535 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 16:20:27,535 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 16:21:12,019 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 16:21:13,291 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 16:21:14,700 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 16:21:15,908 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 16:21:18,895 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 16:21:18,896 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 8.00s
+
+2019-10-10 16:21:19,965 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.07s
+2019-10-10 16:21:19,966 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 16:21:19,967 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 16:24:56,524 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 16:24:57,777 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 16:24:59,554 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 16:25:00,829 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 16:25:03,980 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 16:25:03,980 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 8.59s
+
+2019-10-10 16:25:05,197 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.22s
+2019-10-10 16:25:05,199 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 16:25:05,199 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 16:32:05,856 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 420.66s
+
+2019-10-10 16:35:16,382 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 16:35:17,028 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 16:35:17,870 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 16:35:18,904 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 16:35:20,886 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 16:35:20,886 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 5.21s
+
+2019-10-10 16:35:21,910 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.02s
+2019-10-10 16:35:21,911 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 16:35:21,912 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 16:39:38,344 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 256.43s
+
+2019-10-10 16:45:00,176 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 16:45:00,861 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 16:45:01,694 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 16:45:02,727 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 16:45:04,763 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 12359 mentions
+2019-10-10 16:45:04,764 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 59726 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/674(12359)) - 5.32s
+
+2019-10-10 16:45:06,100 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.34s
+2019-10-10 16:45:06,101 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 16:45:06,102 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 16:49:11,216 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 245.11s
+
+2019-10-10 17:00:59,792 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 17:01:00,660 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 17:01:01,513 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 17:01:02,571 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 17:01:02,896 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 3491 mentions
+2019-10-10 17:01:02,897 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 50858 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/212(3491)) - 3.83s
+
+2019-10-10 17:01:04,187 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.29s
+2019-10-10 17:01:04,188 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 17:01:04,189 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 17:04:47,125 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 222.93s
+
+2019-10-10 17:18:22,602 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 17:18:23,336 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 17:18:24,215 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 17:18:25,290 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 17:18:25,307 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 85 mentions
+2019-10-10 17:18:25,308 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 47452 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/6(85)) - 3.41s
+
+2019-10-10 17:18:26,611 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.30s
+2019-10-10 17:18:26,612 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 17:18:26,612 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 17:22:05,195 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 218.58s
+
+2019-10-10 17:27:22,665 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 17:27:23,332 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 17:27:24,241 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 17:27:25,311 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 17:27:25,322 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 43 mentions
+2019-10-10 17:27:25,323 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 47410 mentions (Trn/Dev/Tst: 980(36385)/310(10982)/3(43)) - 3.37s
+
+2019-10-10 17:27:26,681 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.36s
+2019-10-10 17:27:26,682 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 17:27:26,683 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 17:30:57,460 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 210.78s
+
+2019-10-10 17:39:36,107 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-10 17:39:36,790 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-10 17:39:37,693 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-10 17:39:38,872 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-10 17:39:38,894 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 150 mentions
+2019-10-10 17:39:38,895 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 40467 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/14(150)) - 3.54s
+
+2019-10-10 17:39:40,238 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.34s
+2019-10-10 17:39:40,239 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-10 17:39:40,240 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-10 17:42:45,871 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 185.63s
+
+2019-10-10 18:44:20,542 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 3242.99s, clstr: 333.69s, Trn - 0.9929/0.3296/0.4949, Dev - 0.9951/0.3294/0.4950
+2019-10-10 18:44:20,548 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.5375 ac 0.7920, Dev - ls: 0.4781 ac: 0.8069
+2019-10-10 18:44:20,711 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.9929/0.3296/0.4949, Dev: 0.9951/0.3294/0.4950 @ Epoch 1 - 3577.45s
+2019-10-10 18:44:21,690 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-10-10 18:44:22,316 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.0946/0.1729
+2019-10-10 18:44:22,340 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.0315/0.3330/0.0576
+2019-10-10 18:44:22,344 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.5000/0.0012/0.0024
