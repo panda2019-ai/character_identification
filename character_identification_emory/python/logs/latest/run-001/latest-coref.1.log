@@ -1346,3 +1346,23 @@ Evaluating trained model on Tst
 2019-10-10 18:44:22,316 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.0946/0.1729
 2019-10-10 18:44:22,340 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.0315/0.3330/0.0576
 2019-10-10 18:44:22,344 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.5000/0.0012/0.0024
+2019-10-30 15:47:17,180 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_01.json, 11460 mentions
+2019-10-30 15:47:17,944 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_02.json, 11677 mentions
+2019-10-30 15:47:18,920 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_03.json, 12365 mentions
+2019-10-30 15:47:20,097 - LatestSystem.SubsystemTypes.COREF - INFO - Transcript loaded: data/enhanced-jsons/friends_season_04.json, 11865 mentions
+2019-10-30 15:47:20,126 - LatestSystem.SubsystemTypes.COREF - INFO - wawj Transcript loaded: data/enhanced-jsons_wawj/wawj_season_01.json w/ 150 mentions
+2019-10-30 15:47:20,126 - LatestSystem.SubsystemTypes.COREF - INFO - 1 transcript(s) loaded with 331 speakers and 40467 mentions (Trn/Dev/Tst: 980(36385)/122(3932)/14(150)) - 3.91s
+
+2019-10-30 15:47:22,004 - LatestSystem.SubsystemTypes.COREF - INFO - Fasttext data loaded - 1.88s
+2019-10-30 15:47:22,005 - LatestSystem.SubsystemTypes.COREF - INFO - Gender data loaded   - 0.00s
+2019-10-30 15:47:22,005 - LatestSystem.SubsystemTypes.COREF - INFO - Animacy data loaded  - 0.00s
+2019-10-30 15:50:12,144 - LatestSystem.SubsystemTypes.COREF - INFO - Feature extracted    - 170.13s
+
+2019-10-30 18:44:57,503 - LatestSystem.SubsystemTypes.COREF - INFO - Epoch   1 - trn: 10156.64s, clstr: 281.99s, Trn - 0.9926/0.3307/0.4961, Dev - 0.9950/0.3300/0.4956
+2019-10-30 18:44:57,508 - LatestSystem.SubsystemTypes.COREF - INFO - 	Trn - ls: 0.5350 ac 0.7887, Dev - ls: 0.4500 ac: 0.8099
+2019-10-30 18:44:57,793 - LatestSystem.SubsystemTypes.COREF - INFO - Summary - Trn: 0.9926/0.3307/0.4961, Dev: 0.9950/0.3300/0.4956 @ Epoch 1 - 10439.71s
+2019-10-30 18:44:59,443 - LatestSystem.SubsystemTypes.COREF - INFO - 
+Evaluating trained model on Tst
+2019-10-30 18:44:59,858 - LatestSystem.SubsystemTypes.COREF - INFO - Bcube - 1.0000/0.4047/0.5762
+2019-10-30 18:44:59,873 - LatestSystem.SubsystemTypes.COREF - INFO - Ceafe - 0.1587/0.7484/0.2619
+2019-10-30 18:44:59,887 - LatestSystem.SubsystemTypes.COREF - INFO - Blanc - 0.5000/0.1608/0.2434
