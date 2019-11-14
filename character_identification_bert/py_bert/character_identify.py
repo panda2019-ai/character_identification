@@ -115,7 +115,6 @@ if __name__ == "__main__":
                     user_id, user_name, utterance = items_li
                     utterance_li.append((user_name, utterance))
 
-    outfile = open('待角色识别句子.txt', 'wb')
 
     # 遍历发言
     for utterance_ser, (user_name, utterance) in enumerate(utterance_li):
@@ -134,5 +133,3 @@ if __name__ == "__main__":
                 print(is_next_sentence(utterance, pro_utterance), "pro_user_name=", pro_user_name, "pro_utterance=", pro_utterance)
             print()
     
-    outfile.close()
-
