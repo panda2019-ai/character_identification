@@ -30,6 +30,48 @@ def match_pattern(utterance, regex_exp, not_regex_exp=u''):
     return mention
 
 
+# 是否匹配"@用户名"和第2人称代词"你"
+def match_mention(utterance):
+    mention_username_li, mention_pronoun_li = None, None
+    # 识别"@用户名"
+    mention_username_li = match_pattern(utterance, u'@[^\s，。!]+')
+    # 识别第2人称代词，你
+    mention_pronoun_li = match_pattern(utterance, u'你', u'你们')
+    # 发言中含有“@用户名”并且含有第2人称代词“你”
+    return mention_username_li, mention_pronoun_li
+
+
+# 匹配问题类型
+def match_question_class(utterance):
+    # 匹配反复疑问句
+    repeat_question_pattern = match_pattern(utterance, u'(\w)不\\1')
+    repeat_question_pattern += match_pattern(utterance, u'(\w)没\\1')
+
+    # 匹配选择疑问句
+    alternative_question_pattern = match_pattern(utterance, u'还是[^,，?？]+[?？]')
+
+    # 匹配特指疑问句
+    particular_question_pattern = match_pattern(utterance, u'谁[^,，?？]*[?？]')
+    particular_question_pattern += match_pattern(utterance, u'什么[^,，?？]*[?？]')
+    particular_question_pattern += match_pattern(utterance, u'哪[^,，?？]*[?？]')
+    particular_question_pattern += match_pattern(utterance, u'多少[^,，?？]*[?？]')
+    particular_question_pattern += match_pattern(utterance, u'怎么样[^,，?？]*[?？]')
+    particular_question_pattern += match_pattern(utterance, u'啥[^,，?？]*[?？]')
+
+    # 匹配是非疑问句
+    whether_question_pattern = match_pattern(utterance, u'\?|\？')
+
+    if repeat_question_pattern:        # 反复疑问句
+        return ('反复', repeat_question_pattern)
+    elif alternative_question_pattern: # 选择疑问句
+        return ('选择', alternative_question_pattern)
+    elif particular_question_pattern:  # 特指疑问句
+        return ('特指', particular_question_pattern)
+    elif whether_question_pattern:    # 是非疑问句
+        return ('是非', whether_question_pattern)
+    else:
+        return None
+
 # 
 if __name__ == "__main__":
     # 读取所有发言
@@ -49,50 +91,9 @@ if __name__ == "__main__":
     # 遍历发言
     cnt = 0
     for utterance_ser, (user_name, utterance) in enumerate(utterance_li):
-        # 识别"@用户名"
-        mention_username_li = match_pattern(utterance, u'@[^\s，。!]+')
-
-        # 识别第2人称代词，你
-        mention_pronoun_li = match_pattern(utterance, u'你', u'你们')
-        
-        # 匹配反复疑问句
-        repeat_question_pattern = match_pattern(utterance, u'(\w)不\\1')
-        repeat_question_pattern += match_pattern(utterance, u'(\w)没\\1')
-
-        # 匹配选择疑问句
-        alternative_question_pattern = match_pattern(utterance, u'还是[^,，?？]+[?？]')
-
-        # 匹配特指疑问句
-        particular_question_pattern = match_pattern(utterance, u'谁[^,，?？]*[?？]')
-        particular_question_pattern += match_pattern(utterance, u'什么[^,，?？]*[?？]')
-        particular_question_pattern += match_pattern(utterance, u'哪[^,，?？]*[?？]')
-        particular_question_pattern += match_pattern(utterance, u'多少[^,，?？]*[?？]')
-        particular_question_pattern += match_pattern(utterance, u'怎么样[^,，?？]*[?？]')
-        particular_question_pattern += match_pattern(utterance, u'啥[^,，?？]*[?？]')
-
-        # 匹配是非疑问句
-        whether_question_pattern = match_pattern(utterance, u'\?|\？')
-
-        # 统计含有"@用户名"的发言数
-        # if mention_username_li:
-        #     cnt += 1
-
-        if mention_username_li and mention_pronoun_li:
-            # 统计含有"@用户名"且含有"你"的发言数
-            # cnt += 1
-            if repeat_question_pattern:        # 反复疑问句
-                cnt += 1 # 统计含有"@用户名"且含有"你"且为疑问句的发言数
-                print('反复', repeat_question_pattern, utterance)
-            elif alternative_question_pattern: # 选择疑问句
-                cnt += 1 # 统计含有"@用户名"且含有"你"且为疑问句的发言数
-                print('选择', alternative_question_pattern, utterance)
-            elif particular_question_pattern:  # 特指疑问句
-                cnt += 1 # 统计含有"@用户名"且含有"你"且为疑问句的发言数
-                print('特指', particular_question_pattern, utterance)
-            elif whether_question_pattern:    # 是非疑问句
-                cnt += 1 # 统计含有"@用户名"且含有"你"且为疑问句的发言数
-                print('是非', whether_question_pattern, utterance)
-            else:
-                continue
-    print("cnt=", cnt)
-
+            if match_mention(utterance):
+                # 匹配问题类型
+                question_info = match_question_class(utterance)
+                if question_info:
+                    question_class, question_pattern = question_info
+                    print(question_class, question_pattern, utterance)
