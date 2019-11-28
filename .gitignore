@@ -2,3 +2,4 @@
 baike_qa_valid.json
 co-occurence.npy
 co-occurence.txt
+__pycache__/
